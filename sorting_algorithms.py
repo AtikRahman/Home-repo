@@ -93,7 +93,7 @@ def merge_sort(new_list):
     right = merge_sort(new_list[middle:])
     return merge(left, right)
 
-with open("hello.txt", "r") as file:
+with open("input.txt", "r") as file:
     unsorted_numbers = file.read()
 
 unsorted_numbers = list(map(int, unsorted_numbers.split()))
