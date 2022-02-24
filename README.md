@@ -1,7 +1,3 @@
-# Demo 2
-Second test from home.
-
-change readme
-
-We know nothing
-got forward...
+# Implimenting basic algorithms
+Here are some sorting and searching algorithms.
+Implementation in Python  
